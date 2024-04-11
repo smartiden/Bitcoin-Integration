@@ -98,7 +98,7 @@
 <!-- /wp:list -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>git clone https://github.com/smartiden/Broadcast-Bitcoin-Transaction.git
+<pre class="wp-block-code"><code>git clone https://github.com/smartiden/Bitcoin-Integration.git
 </code></pre>
 <!-- /wp:code -->
 
@@ -109,7 +109,7 @@
 <!-- /wp:list -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>cd Broadcast-Bitcoin-Transaction
+<pre class="wp-block-code"><code>cd Bitcoin-Integration
 </code></pre>
 <!-- /wp:code -->
 
