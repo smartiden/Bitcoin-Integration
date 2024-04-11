@@ -29,7 +29,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1516,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://keyhunters.ru/wp-content/uploads/2024/04/image-4-1024x672.png" alt="" class="wp-image-1516"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/smartiden/Bitcoin-Integration/main/UTXO.png" alt="" class="wp-image-1516"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
